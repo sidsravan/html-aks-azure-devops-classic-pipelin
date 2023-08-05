@@ -22,7 +22,8 @@ Deploy the sample html application to azure kubernates service through azure dev
 ![image](https://github.com/sidsravan/html-aks-azure-devops-classic-pipelin/assets/39290179/750497cd-dee3-40ae-b279-a88adfc12ad1)
 
 **Stage **
-Replace Tocken task for replacing the docker image tag in deployment.yaml
+Replace Tocken task for replacing the docker image tag in deployment.yaml with partten __ACR__
+we need to define the ACR variable in variable section. it will replace varibale with the parttern
 ![image](https://github.com/sidsravan/html-aks-azure-devops-classic-pipelin/assets/39290179/9f8ee77a-043f-4d3d-a776-3c1232484a7b)
 ![image](https://github.com/sidsravan/html-aks-azure-devops-classic-pipelin/assets/39290179/2c35a028-caf2-4a46-9a5d-77c4f05d8b57)
 ![image](https://github.com/sidsravan/html-aks-azure-devops-classic-pipelin/assets/39290179/65283327-3904-4e16-8872-a3d2f9f039e0)
