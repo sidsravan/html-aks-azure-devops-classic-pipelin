@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: my-deployment-new
-        image: nginx:1.14.2
+        image: azaksacr1.azurecr.io/hello-aks:10
         ports:
         - containerPort: 80
 ---
