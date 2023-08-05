@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: my-deployment-new
-        image: azaksacr1.azurecr.io/hello-aks:$(Build.BuildId)
+        image: azaksacr1.azurecr.io/hello-aks:17
         ports:
         - containerPort: 80
 ---
