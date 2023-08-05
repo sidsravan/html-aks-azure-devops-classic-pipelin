@@ -1,15 +1,13 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+Deploy the sample html application to azure kubernates service through azure devops classic pipeline
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+1. Create Azure kubernate service
+2. Azure container Register
 
 # Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+![image](https://github.com/sidsravan/html-aks-azure-devops-classic-pipelin/assets/39290179/f4a34a0a-c8e5-4adc-9836-d43e8b8cf088)
+
 
 # Contribute
 TODO: Explain how other users and developers can contribute to make your code better. 
